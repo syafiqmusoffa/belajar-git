@@ -5,7 +5,7 @@ type Props = {
 
 function Text() {
   return (
-      <p>hello</p>
+      <p>hello ini dari main mau ditabrak ke dev</p>
   )
 }
 
